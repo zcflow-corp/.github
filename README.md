@@ -10,5 +10,3 @@ Esta organización fue creada con el propósito de centralizar el versioning del
 ## ASN (Asociación de Socios de Negocio)
 1. Front
 2. Back
-
-Not front
